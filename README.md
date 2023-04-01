@@ -6,7 +6,6 @@ am studying for a QA engineer
 
 I am currently studying at Netology and will soon become a QA engineer
 
-![фотка](C:/Users/pc/Desktop/2020_11_30_16_12_IMG_0459.JPG "Дополнительное описание")
 
 
 * 🌍  I'm based in Tbilisi
